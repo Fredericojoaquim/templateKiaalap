@@ -1,0 +1,68 @@
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS (and SCSS, if configured) file within this directory, lib/assets/stylesheets, or any plugin's
+ * vendor/assets/stylesheets directory can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any other CSS
+ * files in this directory. Styles in this file should be added after the last require_* statement.
+ * It is generally better to create a new file per style scope.
+ *
+ *=  require c3/c3.min.css
+  *=  require style.css
+ *=  require calendar/fullcalendar.min.css
+ *=  require calendar/fullcalendar.print.min.css
+*=  require  chosen/bootstrap-chosen.css
+*=  require code-editor/ambiance.css
+*=  require  code-editor/codemirror.css
+*=  require colorpicker/colorpicker.css
+*= require cropper/cropper.min.css
+=* require data-table/bootstrap-editable.css
+=* require data-table/bootstrap-table.css
+=* require datapicker/colorpicker.css
+=* require datapicker/datepicker3.css
+=* require dropzone/dropzone.css
+=*  require duallistbox/bootstrap-duallistbox.min.css
+=* require editor/bootstrap-editable.css
+=* require editor/datetimepicker.css
+=* require editor/select2.css
+=* require editor/x-editor-style.css
+=* require form/all-type-forms.css
+=* require form/themesaller-forms.css
+=* require require ionRangeSlider/ion.rangeSlider.css
+=* require ionRangeSlider/ion.rangeSlider.skinFlat.css
+=* require metisMenu/metisMenu-vertical.css
+=* require metisMenu/metisMenu.min.css
+=* require metisMenu/metisMenu.min.css.map
+=* require morrisjs/morris.css
+=* notifications/Lobibox.min.css
+=* stylesheets/notifications/notifications.css
+=* require preloader/preloader-style.css
+=* require scrollbar/jquery.mCustomScrollbar.min.css
+=* require elect2/select2.min.css
+=* require summernote/fonts/summernote.eot.css
+=* require summernote/fonts/summernote.ttf.css
+=* require summernote/fonts/summernote.woff.css
+=* require touchspin/jquery.bootstrap-touchspin.min.css
+=* require accordions.css
+=* require alerts.css
+=* require animate.css
+=* require bootstrap.min.css
+=* require bootstrap.min.css.map
+=* require buttons.css
+=* require educate-custon-icon.css
+=* require font-awesome.min.css
+=* require form.css
+=* require main.css
+=* require meanmenu.min.css
+=* require modals.css
+=* require normalize.css
+=* require owl.carousel.css
+=* require owl.theme.css
+=* require owl.transitions.css
+=* require responsive.css
+ *= require_tree .
+ *= require_self
+ */
